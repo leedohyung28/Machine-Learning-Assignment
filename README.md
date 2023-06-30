@@ -14,16 +14,25 @@
 ---
 
 ### ✏️ 과제 보고서
-[📄Assign02](https://docs.google.com/document/d/1q4Q2XPJfpPBBdoCOa_gFxo8dn6DjT3l7/edit?usp=sharing&ouid=111824440384685428415&rtpof=true&sd=true, "2주차")
 
-[📄Assign03](https://docs.google.com/document/d/1FAC_xFuRFlCUQhPtuxkFjgL4GmLF5D7Y/edit?usp=sharing&ouid=111824440384685428415&rtpof=true&sd=true, "3주차")
+[📄Assign02](https://docs.google.com/document/d/1q4Q2XPJfpPBBdoCOa_gFxo8dn6DjT3l7/edit?usp=sharing&ouid=111824440384685428415&rtpof=true&sd=true)
 
-[📄Assign04](https://docs.google.com/document/d/1g-uGuT-9l3gvO7CpDhUemgNSgmh-V_sp/edit?usp=sharing&ouid=111824440384685428415&rtpof=true&sd=true, "4주차")
+[📄Assign03](https://docs.google.com/document/d/1FAC_xFuRFlCUQhPtuxkFjgL4GmLF5D7Y/edit?usp=sharing&ouid=111824440384685428415&rtpof=true&sd=true)
 
-[📄Assign05](https://docs.google.com/document/d/14FQklSV0z5BBz8iX_Z3Qv3MsGPIfdtwg/edit?usp=sharing&ouid=111824440384685428415&rtpof=true&sd=true, "5주차")
+[📄Assign04](https://docs.google.com/document/d/1g-uGuT-9l3gvO7CpDhUemgNSgmh-V_sp/edit?usp=sharing&ouid=111824440384685428415&rtpof=true&sd=true)
 
-[📄Assign06](https://docs.google.com/document/d/11nynYsoJi27zo0l1UIXjQXLPCzIQM0l_/edit?usp=sharing&ouid=111824440384685428415&rtpof=true&sd=true, "6주차")
+[📄Assign05](https://docs.google.com/document/d/14FQklSV0z5BBz8iX_Z3Qv3MsGPIfdtwg/edit?usp=sharing&ouid=111824440384685428415&rtpof=true&sd=true)
 
-[📄Assign07](https://docs.google.com/document/d/1lWsGtDcDE7okKMJtn1SikOmaBEpYVxUM/edit?usp=sharing&ouid=111824440384685428415&rtpof=true&sd=true, "7주차")
+[📄Assign06](https://docs.google.com/document/d/11nynYsoJi27zo0l1UIXjQXLPCzIQM0l_/edit?usp=sharing&ouid=111824440384685428415&rtpof=true&sd=true)
 
-[📄Assign08](https://docs.google.com/document/d/1-x7w_Hm3PrioRqOSQffjsrL1N5ObdfCh/edit?usp=sharing&ouid=111824440384685428415&rtpof=true&sd=true, "8주차")
+[📄Assign07](https://docs.google.com/document/d/1lWsGtDcDE7okKMJtn1SikOmaBEpYVxUM/edit?usp=sharing&ouid=111824440384685428415&rtpof=true&sd=true)
+
+[📄Assign08](https://docs.google.com/document/d/1-x7w_Hm3PrioRqOSQffjsrL1N5ObdfCh/edit?usp=sharing&ouid=111824440384685428415&rtpof=true&sd=true)
+
+[📄Assign09](https://docs.google.com/document/d/1QBpB_QMGkXOdXimBGHrO5CLiNXH_kGGk/edit?usp=sharing&ouid=111824440384685428415&rtpof=true&sd=true)
+
+[📄Assign10](https://docs.google.com/document/d/14UTIUrb41JGaji5vKhsBnLm80LrSK4xR/edit?usp=sharing&ouid=111824440384685428415&rtpof=true&sd=true)
+
+[📄Term Project](https://drive.google.com/file/d/1wxIspeJ0l5ze7FaD4KXpLR9nEyEgC2zG/view?usp=sharing)
+
+[🎥Term Project Presentation](https://docs.google.com/presentation/d/1WFxpTsEW1JL45Swg-m0u5UG6lLJl2-rO/edit?usp=sharing&ouid=111824440384685428415&rtpof=true&sd=true)
